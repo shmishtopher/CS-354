@@ -1,4 +1,4 @@
-# MATH-218
+# CS-354
 Assignments and notes for CS 354 (Digital Systems Design).  Each assignment's source and associated report
 can be found in the corresponding directory. 
 
